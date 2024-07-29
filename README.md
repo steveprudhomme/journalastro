@@ -5,6 +5,7 @@
     2.  [Date : 2024-07-28, Heure : 23 h 20, Désignations : M39, NGC7092](#202407282320M39NGC7092)
     3.  [Date : 2024-07-28, Heure : 22 h 00, Désignations : M15, NGC7078](#202407282200M15NGC7078)
     4.  [Date : 2024-07-28, Heure : 0 h 17, Désignations : M12 NGC 6218](#202407280017M12NGC6218)
+    5.  [Date : 2024-07-27, Heure : 23:25, Désignations : M3, NGC 5272](#202407272325M3NGC5272)
 
 <a id="Observations"></a>
 
@@ -184,3 +185,48 @@
 -   Apparence :
 -   Magnitude apparente : 8
 -   Appréciation : Amas Globulaire.
+
+
+<a id="202407272325M3NGC5272"></a>
+
+## Date : 2024-07-27, Heure : 23:25, Désignations : M3, NGC 5272
+
+-   Description : M3 est un amas globulaire appartemant à la constellation des Chiens de Chasse (Canes Vanatici), qu'on localise à mi-chemin entre l'étoile Arcturus et Cor Caroli. L'amas concentre plus de 500 000 étoiles et est connu pour abriter le plus grand nombre d'étoiles variables jamais observées dans un amas globulaire.
+-   Catégorie : Amas globulaire
+-   Découverte : Charles Messier, 1764
+-   Numéro catalogue Messier : M3
+-   Numéro catalogue NGC : NGC 5272
+-   Numéro catalogue IC : NA
+-   Numéro catalogue Caldwell : NA
+-   Numéro autres catalogues : NA
+-   Nom du lieu : Mirabel
+-   Durée d'observation recommandé par le logiciel de Vaonis : 30
+-   Durée (min.) : 30
+-   Longueur de la pause (s) : 10
+-   Coordonnés du lieu : 45.62,-74.09
+-   Magnitude qualité du ciel : 20.23
+-   Bortle : 5
+-   Pourcentage lunaire : 58
+-   Nuages : 41
+-   Seeing : 40
+-   Transparence : 30
+-   Vent : 4
+-   Température : 19
+-   Température ressentie : 21
+-   Point de rosée : 16
+-   Humidité : 81
+-   Direction : Est
+-   Au-dessus de l'horizon :40
+-   Instrument : Seestar S50
+-   Filtre : NA
+-   Distance (al) : 34 000
+-   Taille réelle : 190
+-   Taille apparente : 16.2
+-   Bords de l'objet : Granuleux comme du sel
+-   Forme de l'objet : Plutôt ronde
+-   Couleur de l'objet : Blanc tirant vers le bleu
+-   Densité :
+-   Nombre d'étoiles estimé : 500 000
+-   Apparence :
+-   Magnitude apparente : 6.4
+-   Appréciation : Normal
