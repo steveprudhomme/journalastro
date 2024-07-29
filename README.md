@@ -1,18 +1,17 @@
-# Table of Contents
+# Table des matières
 
-1.  [Observations](#org84cdf04)
-    1.  [Date : 2024-07-28, Heure : 22:00, Désignations : M15, NGC 7078](#org9771576)
-    2.  [Date : 20240728, Heure : 23h20, Désignations : M39, NGC7092](#org3f1dd7e)
-    3.  [Date : 20240728, Heure : 23h37, Désignations : Test](#org4e01b87)
+1.  [Observations](#org4593a32)
+    1.  [Date : 2024-07-28, Heure : 22 h 00, Désignations : M15, NGC7078](#orgdfdccf7)
+    2.  [Date : 2024-07-28, Heure : 23 h 20, Désignations : M39, NGC7092](#orga394034)
 
-<a id="org84cdf04"></a>
+<a id="org4593a32"></a>
 
 # Observations
 
 
-<a id="org9771576"></a>
+<a id="orgdfdccf7"></a>
 
-## Date : 2024-07-28, Heure : 22:00, Désignations : M15, NGC 7078
+## Date : 2024-07-28, Heure : 22 h 00, Désignations : M15, NGC7078
 
 -   Type d'objet : Amas d'étoiles
 -   Catalogue astronomique : Messier
@@ -49,9 +48,9 @@
 -   Appréciation : Ciel plutôt couvert par la fumée des feu de forêt. Rejet de plusieurs images. Pourrait être refait.
 
 
-<a id="org3f1dd7e"></a>
+<a id="orga394034"></a>
 
-## Date : 20240728, Heure : 23h20, Désignations : M39, NGC7092
+## Date : 2024-07-28, Heure : 23 h 20, Désignations : M39, NGC7092
 
 -   Description : Messier 39 est l'un des amas les plus proches de la Terre, après les plaéades (m45), la ruche (m44) et quelques autres.
 -   Catégorie : Amas ouvert
@@ -91,49 +90,4 @@
 -   Nombre d'étoiles estimé :
 -   Apparence :
 -   Magnitude apparente : 5.5
--   Appréciation : Objet moyen. Groupe d'étoile éparpillé.
-
-
-<a id="org4e01b87"></a>
-
-## Date : 20240728, Heure : 23h37, Désignations : Test
-
--   Description :
--   Catégorie : Nébuleuse
--   Découverte :
--   Numéro catalogue Messier :
--   Numéro catalogue NGC :
--   Numéro catalogue IC :
--   Numéro catalogue Caldwell :
--   Numéro autres catalogues :
--   Nom du lieu :
--   Durée d'observation recommandé par le logiciel de Vaonis :
--   Durée (min.) :
--   Longueur de la pause (s) :
--   Coordonnés du lieu :
--   Magnitude qualité du ciel :
--   Bortle :
--   Pourcentage lunaire :
--   Nuages :
--   Seeing :
--   Transparence :
--   Vent :
--   Température :
--   Température ressentie :
--   Point de rosée :
--   Humidité :
--   Direction :
--   Au-dessus de l'horizon :
--   Instrument :
--   Filtre :
--   Distance (al) :
--   Taille réelle :
--   Taille apparente :
--   Bords de l'objet :
--   Forme de l'objet :
--   Couleur de l'objet :
--   Densité :
--   Nombre d'étoiles estimé :
--   Apparence :
--   Magnitude apparente :
--   Appréciation :
+-   Appréciation : Objet moyen. Groupe d'étoile éparpillé. 
