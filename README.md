@@ -1,16 +1,16 @@
 # Table of Contents
 
 1.  [Observations](#Observations)
-    1.  [Date : 2024-07-29, Heure : 2 h 30, Désignations : M31 - NGC224 - Galaxie d'Andromède](#Date : 2024-07-29, Heure : 2 h 30, Désignations : M31 - NGC224 - Galaxie d'Andromède)
-    2.  [Date : 2024-07-28, Heure : 23 h 20, Désignations : M39, NGC7092](#Date : 2024-07-28, Heure : 23 h 20, Désignations : M39, NGC7092)
-    3.  [Date : 2024-07-28, Heure : 22 h 00, Désignations : M15, NGC7078](#Date : 2024-07-28, Heure : 22 h 00, Désignations : M15, NGC7078)
+    1.  [Date : 2024-07-29, Heure : 2 h 30, Désignations : M31 - NGC224 - Galaxie d'Andromède](#202407290230M31NGC224)
+    2.  [Date : 2024-07-28, Heure : 23 h 20, Désignations : M39, NGC7092](#202407282320M39NGC7092)
+    3.  [Date : 2024-07-28, Heure : 22 h 00, Désignations : M15, NGC7078](#202407282200M15NGC7078)
 
 <a id="Observations"></a>
 
 # Observations
 
 
-<a id="Date : 2024-07-29, Heure : 2 h 30, Désignations : M31 - NGC224 - Galaxie d'Andromède"></a>
+<a id="202407290230M31NGC224"></a>
 
 ## Date : 2024-07-29, Heure : 2 h 30, Désignations : M31 - NGC224 - Galaxie d'Andromède
 
@@ -55,7 +55,7 @@
 -   Appréciation : Très bel objet. Vers 2h du matin malheureusement des nugages ont commencé à être présent. Beaucoup d'images rejetés. Je n'ai été en mesure que de faire 19 minutes. Vraiment impressionnant comme objet. J'aimerais le refaire dans de meilleures conditions de nuages et de ciel.
 
 
-<a id="Date : 2024-07-28, Heure : 23 h 20, Désignations : M39, NGC7092"></a>
+<a id="202407282320M39NGC7092"></a>
 
 ## Date : 2024-07-28, Heure : 23 h 20, Désignations : M39, NGC7092
 
@@ -100,7 +100,7 @@
 -   Appréciation : Objet moyen. Groupe d'étoile éparpillé.
 
 
-<a id="Date : 2024-07-28, Heure : 22 h 00, Désignations : M15, NGC7078"></a>
+<a id="202407282200M15NGC7078"></a>
 
 ## Date : 2024-07-28, Heure : 22 h 00, Désignations : M15, NGC7078
 
