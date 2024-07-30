@@ -5,7 +5,8 @@
     2.  [Date : 2024-07-28, Heure : 23 h 20, Désignations : M39, NGC7092](#202407282320M39NGC7092)
     3.  [Date : 2024-07-28, Heure : 22 h 00, Désignations : M15, NGC7078](#202407282200M15NGC7078)
     4.  [Date : 2024-07-28, Heure : 0 h 17, Désignations : M12 NGC 6218](#202407280017M12NGC6218)
-    5.  [Date : 2024-07-27, Heure : 23:25, Désignations : M3, NGC 5272](#202407272325M3NGC5272)
+    5.  [Date : 2024-07-27, Heure : 23 h 25, Désignations : M3, NGC 5272](#202407272325M3NGC5272)
+    6.  [Date : 2024-07-27, Heure : 1 h 44, Désignations : Lune](#202407270144LUNE)
 
 <a id="Observations"></a>
 
@@ -189,7 +190,7 @@
 
 <a id="202407272325M3NGC5272"></a>
 
-## Date : 2024-07-27, Heure : 23:25, Désignations : M3, NGC 5272
+## Date : 2024-07-27, Heure : 23 h 25, Désignations : M3, NGC 5272
 
 -   Description : M3 est un amas globulaire appartemant à la constellation des Chiens de Chasse (Canes Vanatici), qu'on localise à mi-chemin entre l'étoile Arcturus et Cor Caroli. L'amas concentre plus de 500 000 étoiles et est connu pour abriter le plus grand nombre d'étoiles variables jamais observées dans un amas globulaire.
 -   Catégorie : Amas globulaire
@@ -230,3 +231,48 @@
 -   Apparence :
 -   Magnitude apparente : 6.4
 -   Appréciation : Normal
+
+
+<a id="202407270144LUNE"></a>
+
+## Date : 2024-07-27, Heure : 1 h 44, Désignations : Lune
+
+-   Description : La Lune est le seul satellite naturel permanent de notre planète. Elle s'est formée il y a 4,51 milliards d'années. De la Terre, nous voyons toujours le même côté de la Lune, car elle est en rotation synchrone avec notre planète. Notre satellite fait une orbite complète autour de la Terre en 29,5 jours.
+-   Catégorie : Planétaire
+-   Découverte : NA
+-   Numéro catalogue Messier : NA
+-   Numéro catalogue NGC : NA
+-   Numéro catalogue IC : NA
+-   Numéro catalogue Caldwell : NA
+-   Numéro autres catalogues : NA
+-   Nom du lieu : Mirabel
+-   Durée d'observation recommandé par le logiciel de Vaonis : Aucune
+-   Durée (min.) : Aucune, photo instantanée.
+-   Longueur de la pause (s) : 1
+-   Coordonnés du lieu : 45.62, -74.09
+-   Magnitude qualité du ciel : 20.23
+-   Bortle : 5
+-   Pourcentage lunaire : 58
+-   Nuages : 10
+-   Seeing : 60
+-   Transparence : 20
+-   Vent : 3
+-   Température : 19
+-   Température ressentie : 19
+-   Point de rosée : 12
+-   Humidité : 65
+-   Direction : Est
+-   Au-dessus de l'horizon :
+-   Instrument : Seestar S50
+-   Filtre : Non
+-   Distance (al) : 384400Km
+-   Taille réelle : 3 474 Km
+-   Taille apparente : 31
+-   Bords de l'objet : Net (cratèreux)
+-   Forme de l'objet : Rond
+-   Couleur de l'objet : Blanc, gris
+-   Densité :
+-   Nombre d'étoiles estimé :
+-   Apparence :
+-   Magnitude apparente : -12.6
+-   Appréciation : Superbe Lune.
